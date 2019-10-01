@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to Cert Master](README.md)
 * [General](1-general/README.md)
   * [Components](1-general/infrastructure.md)
   * [installation](1-general/installation.md)
